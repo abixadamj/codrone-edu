@@ -1,10 +1,17 @@
 # codrone-edu
 repository with Codrone python materials
 
+# web based:
+- https://codrone.robolink.com/edu/python/
+
+# documentation
+- https://docs.robolink.com/docs/CoDroneEDU/Python/Drone-Function-Documentation
+
 # sample app
+- set color
 - start
-- fly forward
-- if yellow, down 10 cm
-- if black, land and stop
+- take picture
+- flip based on color
+
 
 # for Windows and Mac: https://github.com/10botics/codrone-simulator
